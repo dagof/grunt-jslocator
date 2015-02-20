@@ -1,7 +1,7 @@
 {
   "name": "grunt-jslocator",
   "description": "Produces JavaScripts files from template.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "homepage": "https://github.com/dagof/grunt-jslocator",
   "author": {
     "name": "Dago Flores",
