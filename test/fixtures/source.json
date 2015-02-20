@@ -1,0 +1,17 @@
+{
+	"locales": ["en", "fr"]
+	,"vars":{
+		"param1":{
+			"en": "param #1"
+			,"fr": "1r parametre"
+		}
+		,"param2":{
+			"en": "param #2"
+			,"fr": "2e parametre"
+		}
+		,"param3":{
+			"en": "param #3"
+			,"fr": "3e parametre"
+		}
+	}
+}
